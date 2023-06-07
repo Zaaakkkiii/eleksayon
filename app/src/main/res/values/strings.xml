@@ -4,4 +4,6 @@
     <string name="student">Student</string>
     <string name="todo">TODO</string>
     <string name="i_am_a">I am a ...</string>
+    <string name="add_string">ADD</string>
+    <string name="calendar_string">CALENDAR</string>
 </resources>
